@@ -1,4 +1,10 @@
-# TWC2K17
+# The Widget Company Mockup (CLI version)
+
+A sample Angular 2 site, complementing the online article
+
+## Basics
+
+Clone or download this Angular 2 site to your computer. Follow steps below for different features or for help. As with the non-CLI version, this site is a mockup, and functionality is minimal.
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
 
