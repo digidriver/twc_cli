@@ -1,0 +1,12 @@
+.jumbotron {
+    background: #FFF;
+}
+.trademark {
+    font-size: .83em; 
+    vertical-align: super;
+}
+.centeredImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
